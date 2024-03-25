@@ -11,7 +11,7 @@ function filterArr(types) {
     }
     return newArr;
 }
-console.log(filterArr('number'))
+console.log(filterArr('string'))
 
 // 2.     Unikalių Reikšmių Radimas: Turite masyvą su pasikartojančiomis reikšmėmis. Naudodami for ciklą, sukurkite naują masyvą, kuriame būtų tik unikalios reikšmės.
 console.log("______________2   uzduotis___________")

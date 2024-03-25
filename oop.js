@@ -99,8 +99,8 @@ class Worker {
 }
 
 const worker1 = new Worker("James", "Fox", "Admin", 1850);
-worker1.increaseSalary(0); 
-worker1.decreaseSalary(15); 
+worker1.increaseSalary(150); 
+worker1.decreaseSalary(10); 
 console.log(worker1.workerInfo()); 
 
 /*Kreditų kortelės:
